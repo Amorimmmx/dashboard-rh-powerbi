@@ -2,7 +2,7 @@
 
 Dashboard desenvolvido para análise de indicadores de **Recursos Humanos**, com o objetivo de transformar dados de funcionários em informações visuais para acompanhamento e análise do quadro de colaboradores.
 
-## 📷 Dashboard
+##  Dashboard
 
 <p align="center">
   <img src="DashBord.png" width="900">
