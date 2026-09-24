@@ -4,7 +4,7 @@ Dashboard desenvolvido para análise de indicadores de **Recursos Humanos**, com
 
 ## 📷 Dashboard
 
-![Dashboard de RH](dashRh.png)
+![Dashboard de RH](Dashbord.png)
 
 ##  Sobre os dados
 
