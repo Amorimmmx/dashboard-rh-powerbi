@@ -2,6 +2,10 @@
 
 Dashboard desenvolvido para análise de indicadores de **Recursos Humanos**, com o objetivo de transformar dados de funcionários em informações visuais para acompanhamento e análise do quadro de colaboradores.
 
+## 📷 Dashboard
+
+![Dashboard de RH](dashRh.png)
+
 ##  Sobre os dados
 
 A base utilizada contém informações de **234 funcionários**, incluindo dados como:
