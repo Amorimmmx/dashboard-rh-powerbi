@@ -69,4 +69,5 @@ Durante o desenvolvimento do projeto, foram praticados conceitos como:
 
 **Henrique Jesus Amorim da Cruz**
 
-Projeto desenvolvido para prática e desenvolvimento de habilidades em **Power BI e Análise de Dados**.
+Projeto desenvolvido como parte do **curso de Power BI do SENAI**.
+
